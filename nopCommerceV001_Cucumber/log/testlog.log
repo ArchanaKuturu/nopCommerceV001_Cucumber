@@ -1,0 +1,170 @@
+2020-10-22 19:16:54,762 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 19:16:54,865 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 19:17:20,941 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 19:17:24,217 - nopComemrce -INFO - ******** started login*********
+2020-10-22 19:17:52,875 - nopComemrce -INFO - ********Adding new customer*********
+2020-10-22 19:17:52,876 - nopComemrce -INFO - ********Proving customer details*********
+2020-10-22 19:18:00,546 - nopComemrce -INFO - ********Saving customer data*********
+2020-10-22 19:18:05,433 - nopComemrce -INFO - ********closing browser********
+2020-10-22 19:18:10,137 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 19:18:10,148 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 19:18:14,835 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 19:18:15,132 - nopComemrce -INFO - ******** started login*********
+2020-10-22 19:18:34,366 - nopComemrce -INFO - ********Searching customer by email id*********
+2020-10-22 19:18:38,457 - nopComemrce -INFO - ********closing browser********
+2020-10-22 19:18:42,537 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 19:18:42,539 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 19:18:46,960 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 19:18:47,294 - nopComemrce -INFO - ******** started login*********
+2020-10-22 19:19:05,649 - nopComemrce -INFO - ********Searching customer by Name*********
+2020-10-22 19:19:09,372 - nopComemrce -INFO - ********closing browser********
+2020-10-22 20:04:49,954 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 20:04:50,012 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 20:04:56,009 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 20:04:56,347 - nopComemrce -INFO - ******** started login*********
+2020-10-22 20:05:21,556 - nopComemrce -INFO - ********Adding new customer*********
+2020-10-22 20:05:21,557 - nopComemrce -INFO - ********Proving customer details*********
+2020-10-22 20:05:29,227 - nopComemrce -INFO - ********Saving customer data*********
+2020-10-22 20:05:35,142 - nopComemrce -INFO - ********closing browser********
+2020-10-22 20:10:18,074 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 20:10:18,113 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 20:10:22,254 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 20:10:22,602 - nopComemrce -INFO - ******** started login*********
+2020-10-22 20:10:44,827 - nopComemrce -INFO - ********Adding new customer*********
+2020-10-22 20:10:44,827 - nopComemrce -INFO - ********Proving customer details*********
+2020-10-22 20:10:52,316 - nopComemrce -INFO - ********Saving customer data*********
+2020-10-22 20:10:58,905 - nopComemrce -INFO - ********closing browser********
+2020-10-22 20:11:02,798 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 20:11:02,800 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 20:11:06,451 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 20:11:06,760 - nopComemrce -INFO - ******** started login*********
+2020-10-22 20:11:25,912 - nopComemrce -INFO - ********Searching customer by email id*********
+2020-10-22 20:11:29,451 - nopComemrce -INFO - ********closing browser********
+2020-10-22 20:11:33,260 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 20:11:33,264 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 20:11:36,649 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 20:11:36,935 - nopComemrce -INFO - ******** started login*********
+2020-10-22 20:11:56,986 - nopComemrce -INFO - ********Searching customer by Name*********
+2020-10-22 20:12:00,665 - nopComemrce -INFO - ********closing browser********
+2020-10-22 20:12:04,888 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 20:12:04,890 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 20:12:08,927 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 20:12:09,226 - nopComemrce -INFO - ******** started login*********
+2020-10-22 20:12:20,079 - nopComemrce -INFO - ******** Login failed*********
+2020-10-22 20:12:23,105 - nopComemrce -INFO - ******** Click on logout link*********
+2020-10-22 20:12:30,266 - nopComemrce -INFO - ******** Login failed*********
+2020-10-22 20:12:33,272 - nopComemrce -INFO - ********closing browser********
+2020-10-22 20:12:37,312 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 20:12:37,314 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 20:12:41,324 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 20:12:41,621 - nopComemrce -INFO - ******** started login*********
+2020-10-22 20:12:52,661 - nopComemrce -INFO - ******** Login failed*********
+2020-10-22 20:12:55,671 - nopComemrce -INFO - ******** Click on logout link*********
+2020-10-22 20:13:02,802 - nopComemrce -INFO - ******** Login failed*********
+2020-10-22 20:13:05,821 - nopComemrce -INFO - ********closing browser********
+2020-10-22 20:13:09,804 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-22 20:13:09,805 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-22 20:13:13,960 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-22 20:13:14,284 - nopComemrce -INFO - ******** started login*********
+2020-10-22 20:13:18,959 - nopComemrce -INFO - ******** Login passed*********
+2020-10-23 08:18:43,014 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 08:18:43,214 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 08:18:55,896 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 08:18:58,089 - nopComemrce -INFO - ******** started login*********
+2020-10-23 08:19:22,485 - nopComemrce -INFO - ********Adding new customer*********
+2020-10-23 08:19:22,485 - nopComemrce -INFO - ********Proving customer details*********
+2020-10-23 08:19:30,042 - nopComemrce -INFO - ********Saving customer data*********
+2020-10-23 08:19:34,715 - nopComemrce -INFO - ********closing browser********
+2020-10-23 08:19:38,537 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 08:19:38,538 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 08:19:42,593 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 08:19:42,891 - nopComemrce -INFO - ******** started login*********
+2020-10-23 08:20:00,831 - nopComemrce -INFO - ********Searching customer by email id*********
+2020-10-23 08:20:06,439 - nopComemrce -INFO - ********closing browser********
+2020-10-23 08:20:09,945 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 08:20:09,947 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 08:20:14,043 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 08:20:14,327 - nopComemrce -INFO - ******** started login*********
+2020-10-23 08:20:28,955 - nopComemrce -INFO - ********Searching customer by Name*********
+2020-10-23 08:20:32,758 - nopComemrce -INFO - ********closing browser********
+2020-10-23 08:20:36,188 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 08:20:36,192 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 08:20:39,814 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 08:20:40,120 - nopComemrce -INFO - ******** started login*********
+2020-10-23 08:20:47,813 - nopComemrce -INFO - ******** Login failed*********
+2020-10-23 08:20:50,862 - nopComemrce -INFO - ******** Click on logout link*********
+2020-10-23 08:20:55,755 - nopComemrce -INFO - ******** Login failed*********
+2020-10-23 08:20:58,776 - nopComemrce -INFO - ********closing browser********
+2020-10-23 08:21:02,503 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 08:21:02,505 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 08:21:08,890 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 08:21:09,157 - nopComemrce -INFO - ******** started login*********
+2020-10-23 08:21:19,600 - nopComemrce -INFO - ******** Login failed*********
+2020-10-23 08:21:22,610 - nopComemrce -INFO - ******** Click on logout link*********
+2020-10-23 08:21:27,457 - nopComemrce -INFO - ******** Login failed*********
+2020-10-23 08:21:30,470 - nopComemrce -INFO - ********closing browser********
+2020-10-23 08:21:34,194 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 08:21:34,195 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 08:21:38,008 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 08:21:38,480 - nopComemrce -INFO - ******** started login*********
+2020-10-23 08:21:43,057 - nopComemrce -INFO - ******** Login passed*********
+2020-10-23 11:14:48,969 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:14:49,036 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:14:55,392 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 11:14:55,783 - nopComemrce -INFO - ******** started login*********
+2020-10-23 11:15:31,116 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:15:31,120 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:15:46,309 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 11:15:46,616 - nopComemrce -INFO - ******** started login*********
+2020-10-23 11:16:14,598 - nopComemrce -INFO - ********Searching customer by email id*********
+2020-10-23 11:16:19,560 - nopComemrce -INFO - ********closing browser********
+2020-10-23 11:16:24,777 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:16:24,781 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:16:28,813 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 11:16:29,122 - nopComemrce -INFO - ******** started login*********
+2020-10-23 11:16:48,368 - nopComemrce -INFO - ********Searching customer by Name*********
+2020-10-23 11:16:52,113 - nopComemrce -INFO - ********closing browser********
+2020-10-23 11:16:56,472 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:16:56,474 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:16:59,795 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 11:17:00,096 - nopComemrce -INFO - ******** started login*********
+2020-10-23 11:17:26,435 - nopComemrce -INFO - ******** Login failed*********
+2020-10-23 11:17:29,471 - nopComemrce -INFO - ******** Click on logout link*********
+2020-10-23 11:17:34,936 - nopComemrce -INFO - ******** Login failed*********
+2020-10-23 11:17:37,957 - nopComemrce -INFO - ********closing browser********
+2020-10-23 11:17:41,949 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:17:41,950 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:17:45,277 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 11:17:45,626 - nopComemrce -INFO - ******** started login*********
+2020-10-23 11:25:32,849 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:25:32,912 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:25:40,135 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 11:25:40,471 - nopComemrce -INFO - ******** started login*********
+2020-10-23 11:26:07,546 - nopComemrce -INFO - ********Adding new customer*********
+2020-10-23 11:26:07,555 - nopComemrce -INFO - ********Proving customer details*********
+2020-10-23 11:26:16,557 - nopComemrce -INFO - ********Saving customer data*********
+2020-10-23 11:26:22,615 - nopComemrce -INFO - ********closing browser********
+2020-10-23 11:26:26,775 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:26:26,777 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:26:30,155 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 11:26:30,469 - nopComemrce -INFO - ******** started login*********
+2020-10-23 11:26:49,853 - nopComemrce -INFO - ********Searching customer by email id*********
+2020-10-23 11:26:53,596 - nopComemrce -INFO - ********closing browser********
+2020-10-23 11:26:57,188 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:26:57,191 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:27:01,124 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 11:27:01,451 - nopComemrce -INFO - ******** started login*********
+2020-10-23 11:27:22,020 - nopComemrce -INFO - ********Searching customer by Name*********
+2020-10-23 11:27:25,801 - nopComemrce -INFO - ********closing browser********
+2020-10-23 11:27:29,601 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:27:29,604 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:27:34,753 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:27:34,755 - nopComemrce -INFO - ******** Opening URL*********
+2020-10-23 11:27:38,289 - nopComemrce -INFO - ******** Providing login details*********
+2020-10-23 11:27:38,664 - nopComemrce -INFO - ******** started login*********
+2020-10-23 11:27:50,664 - nopComemrce -INFO - ******** Login failed*********
+2020-10-23 11:27:53,675 - nopComemrce -INFO - ******** Click on logout link*********
+2020-10-23 11:27:59,454 - nopComemrce -INFO - ******** Login failed*********
+2020-10-23 11:28:02,479 - nopComemrce -INFO - ********closing browser********
+2020-10-23 11:28:06,343 - nopComemrce -INFO - ******** Launching browser*********
+2020-10-23 11:28:06,345 - nopComemrce -INFO - ******** Opening URL*********
