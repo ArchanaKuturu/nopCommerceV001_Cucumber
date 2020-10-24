@@ -1,2 +1,3 @@
 cd D:\EclipseNeon\FrameworkSpace\nopCommerceV001_Cucumber
-mvn clean install
+
+mvn -Dtest=testRunner test
